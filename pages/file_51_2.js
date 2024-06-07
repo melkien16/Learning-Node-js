@@ -1,6 +1,6 @@
 /**
- * docs: update code comments
- * Created: 2024-05-07
+ * docs: update README with new features
+ * Created: 2024-06-07
  */
 
 function module512() {
@@ -13,9 +13,3 @@ function module512() {
 }
 
 module.exports = module512;
-// Update: 2024-05-28
-// Update: 2024-05-28
-// Update: 2024-06-11
-// Update: 2025-04-23
-// Update: 2025-10-23
-// Update: 2025-11-12
