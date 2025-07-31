@@ -1,5 +1,5 @@
 /**
- * fix: resolve image upload size limit
+ * style: update color scheme consistency
  * Created: 2025-07-31
  */
 
