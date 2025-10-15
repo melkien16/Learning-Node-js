@@ -1,5 +1,5 @@
 /**
- * docs: add installation guide
+ * docs: update code comments
  * Created: 2025-10-15
  */
 
